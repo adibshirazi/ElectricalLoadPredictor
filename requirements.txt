@@ -1,0 +1,9 @@
+jdatetime==5.0.0
+keras==3.4.1
+numpy==1.26.4
+os
+pandas==2.2.2
+sklearn
+subprocess
+sys
+tensorflow==2.17.0
