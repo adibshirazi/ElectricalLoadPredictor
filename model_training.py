@@ -117,7 +117,7 @@ def build_gru_model():
     model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=lr_schedule), loss='mse')
     return model
 
-# Train and evaluate using k-fold cross-validation
+# Train and evaluate using K-fold cross-validation
 for train_index, test_index in kf.split(X):
     X_train, X_test = X[train_index], X[test_index]
     y_train, y_test = y[train_index], y[test_index]
