@@ -68,4 +68,4 @@ The model's performance is evaluated based on the average MSE and R² score acro
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the AGPL-3.0 License. See the [LICENSE](LICENSE) file for details.
