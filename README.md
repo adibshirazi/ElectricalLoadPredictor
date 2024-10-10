@@ -1,6 +1,6 @@
 # Power Load Prediction Using Deep Learning
 
-This project aims to predict the power load for two stations using historical load data. The model employs deep learning techniques, including Convolutional Neural Networks (CNN), Long Short-Term Memory (LSTM), and Gated Recurrent Units (GRU), to forecast future load values. The prediction is done for the year 1403 in the Persian calendar.
+This project aims to predict the power load for two stations using historical load data. The model employs deep learning techniques, including Convolutional Neural Networks (CNN), Long Short-Term Memory (LSTM), and Gated Recurrent Units (GRU), to forecast future load values. The prediction is done for the year 1403 in the Persian calendar
 
 ## Table of Contents
 
